@@ -1,7 +1,7 @@
 # deeplant.ai
 we make innovation in the world of agriculture using artificial intelligence. We help increase agricultural production and find out various information about the state of plants in real time
 
-<a href="https://www.youtube.com/watch?v=ZhEL6iy98fc&feature=youtu.be"><img src="https://raw.githubusercontent.com/linggaajiandika/deeplant.ai/master/video%20tumbnail.jpeg" width="240" height="180"/></a>
+<a href="https://www.youtube.com/watch?v=ZhEL6iy98fc&feature=youtu.be"><img src="https://raw.githubusercontent.com/linggaajiandika/deeplant.ai/master/video%20tumbnail.jpeg" width="815" height="458"/></a>
 
 ## Inspiration ##
 
